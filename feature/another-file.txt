@@ -1,1 +1,3 @@
 jos jedan fajl kreiran u feature-1 grani
+
+Ovaj fajl je modifikovan lokalno
