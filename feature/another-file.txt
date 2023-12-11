@@ -3,3 +3,5 @@ Ova linija je iymenjena u feature-2 grani
 Ovaj fajl je modifikovan lokalno
 
 Ova linija je doadata u feature-2 grani
+
+Jos jedna modifikacija u feature-2 grani
